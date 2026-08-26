@@ -2,9 +2,13 @@
 
 ### Community ROSA Projects
 
+https://github.com/xiaoiecc/qkv-rosa-fast-exact-backward (training ROSA)
+
 https://github.com/aabbdev/rosa (training ROSA)
 
-https://github.com/xiaoiecc/qkv-rosa-fast-exact-backward (training ROSA)
+https://github.com/KakaruHayate/RWKV8-ROSA-FPGA
+
+https://github.com/Juste-Leo2/ROSA-GPU-RWKV8
 
 https://github.com/wjie98/rosa_soft (training ROSA)
 
