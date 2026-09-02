@@ -32,7 +32,7 @@ RWKV Chat: https://rwkv.halowang.cloud/ (local inference for mobile/desktop) and
 
 Latest RWKV weights: https://huggingface.co/BlinkDL
 
-GGUF: https://huggingface.co/collections/shoumenchougou/rwkv7-gxx-gguf
+GGUF: https://huggingface.co/collections/shoumenchougou/rwkv7-gxx-gguf and https://huggingface.co/HaloWang/rwkv-weights
 
 Efficient inference: https://github.com/BlinkDL/Albatross
 * 145+ token/s RWKV-7 7.2B fp16 bsz1 decoding @ RTX5090 (always const speed & vram)
